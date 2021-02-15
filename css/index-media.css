@@ -1,0 +1,116 @@
+
+
+
+/*  Screen Resolution MAX-WIDTH====400*/
+@media screen and (max-width: 500px){
+
+	.item .img-slider{
+		height: 570px;
+	}
+
+	
+	#info-text{
+
+		font-size: 11px;
+	}
+
+
+
+	.animated{
+
+		font-size: 12px;
+	}
+
+
+.carousel-inner .item .img-slider{
+
+	width: 100%;
+	height: 200px;
+}
+
+#title-header{
+
+	font-size: 13px;
+	padding-bottom: 0px;
+}
+
+
+.form-fill-text{
+
+	font-size: 13px;
+}
+
+#title-header3, #title-header4, #title-header2, #title-header5, #title-header6, #title-header7, #title-header8, #strong-text
+
+	font-size: 13px;
+}
+
+
+
+.text-con{
+
+	font-size: 11px;
+}
+
+
+
+.learn-more-btn{
+
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	font-size: 11px;
+
+}
+
+
+.read-more, #snd-text-msg{
+
+	font-size: 10px;
+}
+
+
+.title-text-con{
+
+	font-size: 10px;
+}
+
+#text-msg{
+	height: 170px;
+	}
+
+
+	/*========================Sm Menu=====================*/
+
+
+	.glyphicon-menu-hamburger{
+
+		font-size: 20px;
+	}
+
+	#menu-list-con{
+		position: absolute;
+		background-color: rgb(109, 0, 77);
+		top: 45px;
+		display: none;
+	}
+
+	.list-menu{
+
+		list-style-type: none;
+		text-align: center;
+		padding: 10px;
+		color: white;
+	}
+
+	.list-menu:hover{
+		color: white;
+		background-color: orange;
+	}
+
+	
+
+
+
+
+
+}

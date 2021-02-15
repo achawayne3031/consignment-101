@@ -1,0 +1,46 @@
+
+
+	#eye{
+
+		font-size: 20px; 
+		cursor: pointer; 
+		padding-top: 5px; 
+		position: absolute; 
+		z-index: 999; 
+		top: 0px; 
+		right: 0px; 
+		padding-right: 10px;
+
+	}
+
+
+
+/*  Screen Resolution MAX-WIDTH====400*/
+@media screen and (max-width: 500px){
+
+
+
+	#email, #password{
+
+		font-size: 11px;
+	}
+
+
+	#eye{
+
+		font-size: 15px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

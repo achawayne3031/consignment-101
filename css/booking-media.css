@@ -1,0 +1,32 @@
+
+
+
+
+/*  Screen Resolution MAX-WIDTH====400*/
+@media screen and (max-width: 500px){
+
+
+
+
+	.book-state{
+
+		font-size: 12px;
+	}
+
+
+	.book-state-option{
+		font-size: 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

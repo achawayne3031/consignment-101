@@ -1,0 +1,465 @@
+
+
+.lg-header-links:hover{
+	background-color: rgb(109, 0, 77);
+	color: white;
+}
+
+#info-text{
+	color: white; 
+	padding-left: 5px;
+}
+
+.track-order-row{
+	margin-top: 50px;
+}
+
+.col-un-section{
+	padding: 0px;
+}
+
+#empty-approved{
+	text-align: center;
+}
+
+.section-one-approved{
+	background-color: lightblue; 
+	box-shadow: 3px 2px 3px cyan;
+}
+
+#approved-status{
+	background-color: red; 
+	color: white; 
+	font-weight: bold; 
+	padding: 5px; 
+	border-radius: 5px;
+}
+
+#unapproved-cancelled{
+	background-color: red; 
+	color: white; 
+	font-weight: bold; 
+	padding: 5px; 
+	border-radius: 5px;
+}
+
+.date{
+	position: relative; 
+	right: 0px;
+}
+
+#admin-dash-text{
+	color: blue;
+}
+
+#unapproved-text{
+	text-align: center;
+}
+
+.section-two-col-unapproved{
+	background-color: cyan;
+}
+
+.admin-side-menu-bar{
+	background-color: rgb(246, 133, 255); 
+	position: fixed; 
+	height: 700px; 
+	padding: 0px;
+}
+
+#sub-mini-menu{
+	padding-left: 20px; 
+	display: none;
+}
+
+.side-menu-li-link{
+	color: black; 
+	text-decoration: none;
+}
+
+.admin-menu-ul{
+	padding-top: 50px;
+}
+
+.menu-form{
+	padding: 0px;
+}
+
+.admin-panel-link{
+	color: black; 
+	text-decoration: none;
+}
+
+.approved-sec-col-two{
+	background-color: cyan;
+}
+
+.time{
+	font-family: Verdana; 
+	font-weight: bolder;
+}
+
+.approved-text-sec-two{
+	color: blue;
+}
+
+.sub-header-col{
+	padding: 0px;
+}
+
+.unapproved-section-one{
+	background-color: lightblue; 
+	box-shadow: 3px 2px 3px cyan;
+}
+
+.info-icon-envelope{
+	font-size: 15px; 
+	padding-right: 5px;
+}
+
+.lg-link-menu{
+	color: black;
+}
+
+.main-menu-col{
+	padding: 0px 0px 0px 5px;
+}
+
+.login-row{
+	margin-top: 20px;
+}
+
+.reg-spin{
+	font-size: 30px; 
+	display: none;
+}
+
+#loader{
+
+	position: relative; 
+	left: 50%; 
+	display: none;
+}
+
+#app{
+	background-color: rgb(167, 215, 153);
+}
+
+#track-col-bg{
+	background-color: rgb(97, 255, 255); 
+	padding-bottom: 20px; 
+	border-radius: 5px; 
+	box-shadow: 2px 3px 3px lightblue;
+}
+
+#track-title{
+	text-align: center; 
+	font-weight: bold; 
+	color: aliceblue;
+}
+
+.lg-link-header-a{
+	color: black;
+}
+
+.info-icon-phone{
+	padding-left: 30px; 
+	padding-right: 5px;
+}
+
+#sub-header-row{
+	background-color: rgb(109, 0, 77);
+}
+
+#ul-social-media-icon{
+	color: white; 
+	list-style-type: none; 
+	padding-top: 10px;
+}
+
+.admin-body-content{
+	margin-bottom: 40px; 
+	background-color: rgb(255, 216, 255); 
+	color: black;
+}
+
+.social-icons{
+	font-size: 20px;
+	cursor: pointer;
+}
+
+*{
+	font-family: "verdana";
+}
+
+.dashboard-overall-display{
+	width: 100%;
+	background-color: coral;
+	border-radius: 10px;
+	padding: 20px;
+	height: 100px;
+	border-right: 2px solid darkgoldenrod;
+}
+
+.second-col-row{
+	margin-top: 20px;
+}
+
+.section-title{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.admin-dashboard-icons{
+	font-size: 20px;
+}
+
+
+ .me .left{
+      background-image: none;
+    }
+
+    .me .right{
+      background-image: none;
+    }
+
+
+.main-menu-link{
+
+	text-align: center; 
+	font-weight: bolder; 
+	line-height: 20px;
+	cursor: pointer;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+.user-form-col{
+	padding-bottom: 20px; 
+	padding-top: 10px; 
+	background-color: rgb(40, 100, 110); 
+	border-radius: 5px; 
+	box-shadow: 3px 3px 4px cyan; 
+	border: 1px groove white;
+}
+
+.main-menu-link:hover{
+	text-decoration: none;
+	background-color: rgb(109, 0, 77);
+	color: white;
+}
+
+#title-header2{
+	text-align: center; 
+	font-weight: bolder;
+	color: aliceblue;
+}
+
+
+
+.form-fill-title{
+	color: aliceblue;
+
+}
+
+.is-invalid{
+	color: coral;
+	font-size: 13px;
+}
+
+.push-center{
+	text-align: center;
+}
+
+.table-view-pro{
+	width: 90%;
+}
+
+.view-table{
+	position: fixed;
+	top: 145px;
+	right: 0px;
+	width: 45%;
+}
+
+#ul-side-bar{
+	list-style-type: none; 
+	margin: 0px; 
+	padding: 0px;
+}
+
+.side-bar-links{
+	color: black; 
+	text-decoration: none;
+}
+
+.user-dashboard-side-bar{
+	position: fixed; 
+	background-color: cyan; 
+	box-shadow: 3px 2px 4px lightblue; 
+	height: 700px; padding: 0px;
+	top: -10px;
+}
+
+#user-icon-con{
+	text-align: center;
+}
+
+#ul-side-bar{
+	padding-top: 50px;
+}
+
+.side-bar-item{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+
+
+
+.user-icon{
+	font-size: 100px;
+}
+
+.default-ul{
+	margin: 0px; 
+	padding: 0px;
+}
+
+
+.lg-header-links{
+	display: inline-block;
+	padding: 10px 40px;
+	font-weight: bold;
+
+}
+
+#header-ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header-second-row-col{
+	background-color: white; 
+	padding-top: 0px; 
+	padding-bottom: 0px; 
+	position: sticky; 
+	top: 0px; 
+	z-index: 9999999; 
+	height: 40px;
+}
+
+.col-ship-pro{
+	height: 400px;
+	
+}
+
+.status-style{
+	background-color: red; 
+	color: white; 
+	font-weight: bold;
+	padding: 5px; 
+	border-radius: 5px;
+}
+
+.label-text{
+	font-size: 13px;
+}
+
+.topic-title{
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.booking-alert{
+	color: coral;
+	font-size: 13px;
+
+}
+
+#slider-container{
+	padding: 0px;
+}
+
+
+.sub-header-links{
+	display: inline;
+	padding: 10px;
+}
+
+
+#service-calculator-section{
+	position: absolute;
+	top: 90px;
+	z-index: 999;
+}
+
+
+.fra{
+	display: block;
+}
+
+.cal-alert{
+	color: white;
+	text-decoration: underline;
+}
+
+.cal-sub-text{
+	margin-right: 10px;
+}
+
+.fragile-radio, .service-radio{
+	color: white;
+}
+
+
+.service-col{
+	width: 100%;
+	background-color: rgba(8, 32, 32, 0.5) !important;
+	z-index: 999;
+	border-radius: 10px;
+}
+
+
+.carousel-inner .item .img-slider{
+	width: 100%;
+	height: 570px;
+}
+
+#title-header{
+
+	text-align: center; 
+	font-weight: bold; 
+	padding-top: 10px; 
+	padding-bottom: 20px;
+}
+
+
+.learn-more-btn{
+
+	color: white; 
+	border: 2px solid white; 
+	border-radius: 5px; 
+	padding-top: 10px; 
+	padding-bottom: 10px;
+}
+
+#text-msg{
+	resize: none; 
+	height: 200px;
+}
+
+
+.read-more, #snd-text-msg{
+
+	font-size: 20px;
+}
+

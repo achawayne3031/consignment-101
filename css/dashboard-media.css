@@ -1,0 +1,33 @@
+
+
+
+
+
+
+/*  Screen Resolution MAX-WIDTH====400*/
+@media screen and (max-width: 500px){
+
+	
+
+	.topic-title{
+
+		font-size: 15px;
+	}
+
+
+	.info-text, .label-text{
+		font-size: 13px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	}

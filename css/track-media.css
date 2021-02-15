@@ -1,0 +1,47 @@
+
+
+
+
+/*  Screen Resolution MAX-WIDTH====400*/
+@media screen and (max-width: 500px){
+
+	
+
+	#track-title{
+
+		font-size: 13px;
+	}
+
+
+	#track-instruct{
+
+		font-size: 12px;
+	}
+
+	#booking{
+
+		font-size: 12px;
+	}
+
+
+	#app{
+
+		font-size: 9px;
+	}
+
+
+	#booking-num{
+		font-size: 13px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+	}
